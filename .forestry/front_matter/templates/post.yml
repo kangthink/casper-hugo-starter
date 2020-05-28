@@ -23,5 +23,14 @@ fields:
 - type: file
   name: feature_image
   label: feature_image
+- name: longtext
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: longtext
 pages:
 - content/post/새로운-문서-저장.md
