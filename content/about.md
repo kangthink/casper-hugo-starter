@@ -3,7 +3,6 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Alex"
 date = 2019-02-28T00:00:00Z
 description = "Hugo, the world’s fastest framework for building websites"
-draft = true
 feature_image = "/images/hugo.png"
 title = "About 페이지"
 
